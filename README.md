@@ -7,3 +7,4 @@
 курс 1, группа 3, подгруппа 1
 NEW TEST TEXT
 NEW TEST TEXT
+NEW TEST TEXT
